@@ -1,0 +1,779 @@
+<div id="banner-slider-demo-5" class="owl-carousel owl-theme owl-middle-narrow owl-banner-carousel">
+    <div class="item" style="background:url(http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/01_bg.png) repeat;">
+        <div class="container" style="position:relative">
+            <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/01.png" alt="" />
+            <div class="content type1" style="position:absolute;top:30%;left:10%;text-align:right">
+                <h2 style="font-weight:600;line-height:1;color:#08c">HUGE <b style="font-weight:800">SALE</b></h2>
+                <p style="color:#777;font-weight:300;line-height:1;margin-bottom:15px">Now starting at <span style="color:#535353;font-weight:400">$99</span></p>
+                <a href="#" style="font-weight:300;">Shop now &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="item" style="background:url(http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/02_bg.png) center center no-repeat;background-size:cover;">
+        <div class="container" style="position:relative">
+            <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/02.png" alt="" />
+        </div>
+    </div>
+    <div class="item" style="background:url(http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/03_bg.png) center center no-repeat;background-size:cover;">
+        <div class="container" style="position:relative">
+            <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/03.png" alt="" />
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    jQuery(function($){
+        $("#banner-slider-demo-5").owlCarousel({autoPlay:true,lazyLoad:true,stopOnHover: true,pagination: false, autoPlay: true,navigation: true,navigationText:["<i class='icon-chevron-left'></i>","<i class='icon-chevron-right'></i>"],slideSpeed : 500,paginationSpeed : 500,singleItem:true,transitionStyle : "fade"});
+    });
+</script>
+<div class="homepage-bar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <i class="icon-truck" style="font-size:36px;"></i><div class="text-area"><h3>FREE SHIPPING & RETURN</h3><p>Free shipping on all orders over $99.</p></div>
+            </div>
+            <div class="col-md-4">
+                <i class="icon-dollar"></i><div class="text-area"><h3>MONEY BACK GUARANTEE</h3><p>100% money back guarantee.</p></div>
+            </div>
+            <div class="col-md-4">
+                <i class="icon-lifebuoy" style="font-size:32px;"></i><div class="text-area"><h3>ONLINE SUPPORT 24/7</h3><p>Lorem ipsum dolor sit amet.</p></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="single-images border-radius" style="padding-top: 25px;">
+    <div class="container">
+        <div class="row" style="margin-left:-10px;margin-right:-10px;">
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+                <a class="image-link" href="#">
+                    <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/image_1.png" alt="" />
+                </a>
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+                <a class="image-link" href="#">
+                    <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/image_2.png" alt="" />
+                </a>
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+                <a class="image-link" href="#">
+                    <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/image_3.png" alt="" />
+                </a>
+            </div>
+            <div class="col-sm-3 col-xs-6" style="padding-left:10px;padding-right:10px;padding-top:20px;">
+                <a class="image-link" href="#">
+                    <img src="http://s.sunpop.cn/media/wysiwyg/porto/homepage/slider/05/image_4.png" alt="" />
+                </a>
+            </div>
+         </div>
+    </div>
+</div>
+<div style="padding-top: 35px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="filter-title"><span class="content"><strong>Featured Products</strong></span></h2>
+                <div id="featured_product" class="owl-top-narrow">
+                    <div class="filter-products">
+        <div class="products owl-carousel">
+                    <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/27" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/women-blouse.html" title="Women Blouse" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Women Blouse"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Women Blouse"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/women-blouse.html" title="Women Blouse">Women Blouse</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-27">
+                    $70.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-27">
+                    $50.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/27/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/27/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/27/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/25" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/black-top.html" title="Black Top" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Black Top"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Black Top"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/black-top.html" title="Black Top">Black Top</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-25">
+                    $130.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-25">
+                    $99.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/25/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/25/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/25/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/21" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/sample-product.html" title="Sample Product" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Sample Product"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Sample Product"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                         
+                                <div class="product-label" style="right: 10px; top: 40px;"><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/sample-product.html" title="Sample Product">Sample Product</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-21">
+                    $70.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-21">
+                    $50.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/21/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/21/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/21/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/1" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/test-configurable.html" title="Test Configurable" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Test Configurable"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Test Configurable"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/test-configurable.html" title="Test Configurable">Test Configurable</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1">
+                                            <span class="price">$120.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/1/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:showOptions('1')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                <a href='http://s.sunpop.cn/index.php/ajaxcart/index/options/product_id/1/' class='fancybox' id='fancybox1' style='display:none'>Options</a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/23" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/pink-shirt.html" title="Pink Shirt" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Pink Shirt"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Pink Shirt"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/pink-shirt.html" title="Pink Shirt">Pink Shirt</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-23">
+                                            <span class="price">$90.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/23/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/23/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/23/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/29" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/sheri-collar-shirt.html" title="Sheri Collar Shirt" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Sheri Collar Shirt"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Sheri Collar Shirt"/>
+                                                            </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/sheri-collar-shirt.html" title="Sheri Collar Shirt">Sheri Collar Shirt</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-29">
+                                            <span class="price">$70.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/29/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/29/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/29/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/28" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/elizabeth-kint-top.html" title="Elizabeth Kint Top" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Elizabeth Kint Top"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Elizabeth Kint Top"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/elizabeth-kint-top.html" title="Elizabeth Kint Top">Elizabeth Kint Top</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-28">
+                                            <span class="price">$220.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/28/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/28/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/28/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/22" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/sample-fashion.html" title="Sample Fashion" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Sample Fashion"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Sample Fashion"/>
+                                                            </a>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/sample-fashion.html" title="Sample Fashion">Sample Fashion</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-22">
+                                            <span class="price">$90.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/22/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/22/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/22/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/26" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/fashion-jacket.html" title="Fashion Jacket" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Fashion Jacket"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Fashion Jacket"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/fashion-jacket.html" title="Fashion Jacket">Fashion Jacket</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-26">
+                                            <span class="price">$33.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/26/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/26/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/26/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/24" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/blue-denim-jeans.html" title="Blue Denim Jeans" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Blue Denim Jeans"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Blue Denim Jeans"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/blue-denim-jeans.html" title="Blue Denim Jeans">Blue Denim Jeans</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-24">
+                    $200.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-24">
+                    $160.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/24/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/24/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/24/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                </div>
+</div>
+
+                </div>
+                <script type="text/javascript">
+                    jQuery(function($){
+                        $("#featured_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1280, 5] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: false,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: false,    navigation: true,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="padding-top: 20px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="filter-title"><span class="content"><strong>New Products</strong></span></h2>
+                <div id="new_product" class="owl-top-narrow hide-addtolinks">
+                    <div class="filter-products">
+        <div class="products owl-carousel">
+                    <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/8" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/fashion-dress.html" title="Fashion Dress" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Fashion Dress"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Fashion Dress"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                         
+                                <div class="product-label" style="right: 10px; top: 40px;"><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/fashion-dress.html" title="Fashion Dress">Fashion Dress</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-8">
+                    $90.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-8">
+                    $80.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/8/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:showOptions('8')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                <a href='http://s.sunpop.cn/index.php/ajaxcart/index/options/product_id/8/' class='fancybox' id='fancybox8' style='display:none'>Options</a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/8/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/28" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/elizabeth-kint-top.html" title="Elizabeth Kint Top" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Elizabeth Kint Top"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Elizabeth Kint Top"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/elizabeth-kint-top.html" title="Elizabeth Kint Top">Elizabeth Kint Top</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-28">
+                                            <span class="price">$220.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/28/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/28/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/28/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/26" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/fashion-jacket.html" title="Fashion Jacket" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Fashion Jacket"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Fashion Jacket"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/fashion-jacket.html" title="Fashion Jacket">Fashion Jacket</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-26">
+                                            <span class="price">$33.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/26/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/26/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/26/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/23" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/pink-shirt.html" title="Pink Shirt" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Pink Shirt"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Pink Shirt"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/pink-shirt.html" title="Pink Shirt">Pink Shirt</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-23">
+                                            <span class="price">$90.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/23/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/23/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/23/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/21" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/sample-product.html" title="Sample Product" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Sample Product"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Sample Product"/>
+                                                            </a>
+                                                    <div class="product-label" style="right: 10px;"><span class="sale-product-icon">Sale</span></div>
+                                         
+                                <div class="product-label" style="right: 10px; top: 40px;"><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/sample-product.html" title="Sample Product">Sample Product</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-21">
+                    $70.00                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-21">
+                    $50.00                </span>
+                </p>
+                    
+    
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/21/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/checkout/cart/add/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/product/21/form_key/668i1TGzAfewKpDL/')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/21/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                        <div class="item"><div class="item-area">
+                <div class="product-image-area">
+                                            <a href="http://s.sunpop.cn/index.php/quickview/index/view/id/1" class="quickview-icon"><i class="icon-export"></i><span>Quick View</span></a>
+                                        <a href="http://s.sunpop.cn/index.php/test-configurable.html" title="Test Configurable" class="product-image">
+                                            <img class="defaultImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/small_image/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/small_image.jpg" alt="Test Configurable"/>
+                        <img class="hoverImage" src="http://s.sunpop.cn/media/catalog/product/cache/1/thumbnail/250x/17f82f742ffe127f42dca9de82fb58b1/images/catalog/product/placeholder/thumbnail.jpg" alt="Test Configurable"/>
+                                                            </a>
+                                         
+                                <div class="product-label" style="right: 10px; "><span class="new-product-icon">New</span></div>
+                                        </div>
+                <div class="details-area">
+                    <h2 class="product-name"><a href="http://s.sunpop.cn/index.php/test-configurable.html" title="Test Configurable">Test Configurable</a></h2>
+                                                                <div class="ratings">
+                            <div class="rating-box">
+                                <div class="rating" style="width:0"></div>
+                            </div>
+                        </div>
+                                                            
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-1">
+                                            <span class="price">$120.00</span>                                    </span>
+                        
+        </div>
+
+                    <div class="actions">
+                                                    <a href="http://s.sunpop.cn/index.php/wishlist/index/add/product/1/form_key/668i1TGzAfewKpDL/" class="addtowishlist" title="Add to Wishlist"><i class="icon-wishlist"></i></a>
+                                                                                                            <a href="javascript:setLocationAjax('http://s.sunpop.cn/index.php/test-configurable.html')" class="addtocart" title="Add to Cart"><i class="icon-cart"></i><span>&nbsp;Add to Cart</span></a>
+                                                                                                        <a href="http://s.sunpop.cn/index.php/catalog/product_compare/add/product/1/uenc/aHR0cDovL3Muc3VucG9wLmNuL2luZGV4LnBocC8,/form_key/668i1TGzAfewKpDL/" class="comparelink" title="Add to Compare"><i class="icon-compare"></i></a>
+                                                <div class="clearer"></div>
+                    </div>
+                </div>
+            </div></div>
+                </div>
+</div>
+
+                </div>
+                <script type="text/javascript">
+                    jQuery(function($){
+                        $("#new_product .filter-products .owl-carousel").owlCarousel({lazyLoad: true,    itemsCustom: [ [0, 1], [320, 1], [480, 2], [768, 3], [992, 4], [1280, 6] ],    responsiveRefreshRate: 50,    slideSpeed: 200,    paginationSpeed: 500,    scrollPerPage: false,    stopOnHover: true,    rewindNav: true,    rewindSpeed: 600,    pagination: false,    navigation: true,    autoPlay: true,    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]});
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="padding-top: 20px;" class="custom-support">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <i class="icon-star" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Customer Support</h2>
+                    <em>YOU WON'T BE ALONE</em>
+                    <p>We really care about you and your website as much as you do. Purchasing Porto or any other theme from us you get 100% free support.</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <i class="icon-reply" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Fully Customizable</h2>
+                    <em>TONS OF OPTIONS</em>
+                    <p>With Porto you can customize the layout, colors and styles within only a few minutes. Start creating an amazing website right now!</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <i class="icon-paper-plane" style="border-radius:50%;border:2px solid #cecece;color:#333;background-color:transparent;line-height:58px;font-size:25px;"></i>
+                <div class="content">
+                    <h2>Powerful Admin</h2>
+                    <em>MADE TO HELP YOU</em>
+                    <p>Porto has very powerful admin features to help customer to build their own shop in minutes without any special skills in web development.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="parallax-wrapper ">
+    <div class="overlay overlay-color" style="background-color: #000000; opacity: 0.75; filter: alpha(opacity=75);"></div>
+    <div class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(http://s.sunpop.cn/media/wysiwyg/porto/homepage/content/05/2.jpg);">
+        <div class="parallax-slider" style="position: relative; z-index: 3;">
+            <div class="container">
+                <div id="parallax-slider-demo-5" class="owl-carousel owl-theme">
+                    <div class="item">
+                        <h2 style="font-weight:600;">EXPLORE <b style="font-weight:800;">PORTO</b></h2>
+                        <p style="font-weight:300;">Premium theme, unlimited possibilities...</p>
+                        <a href="#" style="font-weight:300;">Purchase now &gt;</a>
+                    </div>
+                    <div class="item">
+                        <h2 style="font-weight:600;">EXPLORE <b style="font-weight:800;">PORTO</b></h2>
+                        <p style="font-weight:300;">Premium theme, unlimited possibilities...</p>
+                        <a href="#" style="font-weight:300;">Purchase now &gt;</a>
+                    </div>
+                    <div class="item">
+                        <h2 style="font-weight:600;">EXPLORE <b style="font-weight:800;">PORTO</b></h2>
+                        <p style="font-weight:300;">Premium theme, unlimited possibilities...</p>
+                        <a href="#" style="font-weight:300;">Purchase now &gt;</a>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                jQuery(function($){
+                    $("#parallax-slider-demo-5").owlCarousel({navigation : false,slideSpeed : 300,paginationSpeed : 400,    stopOnHover: true,autoPlay: true,singleItem:true});
+                });
+            </script>
+        </div>
+    </div>
+</div>
